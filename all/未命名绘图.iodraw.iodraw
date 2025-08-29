@@ -105,7 +105,7 @@
             <mxPoint x="770" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.072;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-34">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.072;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="480" as="targetPoint" />
           </mxGeometry>
