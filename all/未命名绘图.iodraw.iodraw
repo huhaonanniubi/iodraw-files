@@ -16,9 +16,6 @@
         <mxCell id="wo-FAuSecLBx0kzGD3z7-8" value="Comprehension Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="234" y="539" width="215" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-9" target="wo-FAuSecLBx0kzGD3z7-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-9" value="Decomposition Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="492" y="480" width="210" height="49" as="geometry" />
         </mxCell>
@@ -50,13 +47,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="604.5" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-19" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="604" y="420" as="sourcePoint" />
-            <mxPoint x="604.0000000000002" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-7" target="wo-FAuSecLBx0kzGD3z7-12">
