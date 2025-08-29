@@ -13,16 +13,16 @@
         <mxCell id="wo-FAuSecLBx0kzGD3z7-7" value="Problem Agent" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="539" width="164" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-8" value="Comprehension Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-8" value="Comprehension Agent" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="539" width="215" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-9" value="Decomposition Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-9" value="Decomposition Agent" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="492" y="480" width="210" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-10" value="Programming Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-10" value="Programming Agent" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="759" y="539" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-11" value="Reflection and Consolidation Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-11" value="Reflection and Consolidation Agent" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1008" y="530" width="202" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-12" value="Evaluation Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
