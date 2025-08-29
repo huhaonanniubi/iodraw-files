@@ -25,7 +25,7 @@
         <mxCell id="wo-FAuSecLBx0kzGD3z7-15" value="End: Deliver the generated response to the student" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="493" y="1030" width="222" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;shape=flexArrow;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-2">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;shape=flexArrow;fillColor=#000000;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="604" y="104" as="targetPoint" />
