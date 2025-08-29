@@ -16,8 +16,11 @@
         <mxCell id="wo-FAuSecLBx0kzGD3z7-8" value="Comprehension Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="234" y="539" width="215" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-9" target="wo-FAuSecLBx0kzGD3z7-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-9" value="Decomposition Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="499" y="539" width="210" height="49" as="geometry" />
+          <mxGeometry x="492" y="480" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-10" value="Programming Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="759" y="539" width="199" height="49" as="geometry" />
