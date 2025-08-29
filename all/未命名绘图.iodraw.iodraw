@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-2" value="Start" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="575" y="-70" width="58" height="124" as="geometry" />
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-2" value="Start&#xa;Collect key information provided by the student" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-70" width="223" height="124" as="geometry" />
         </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-4" value="Record Input: Store the student&#39;s input in the database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="478" y="110" width="252" height="84" as="geometry" />
