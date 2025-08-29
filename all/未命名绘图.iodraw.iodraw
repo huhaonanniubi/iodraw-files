@@ -100,8 +100,10 @@
         <mxCell id="wo-FAuSecLBx0kzGD3z7-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-34" target="wo-FAuSecLBx0kzGD3z7-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-34" target="wo-FAuSecLBx0kzGD3z7-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.91;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-34" target="wo-FAuSecLBx0kzGD3z7-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="370" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.072;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wo-FAuSecLBx0kzGD3z7-34">
           <mxGeometry relative="1" as="geometry">
