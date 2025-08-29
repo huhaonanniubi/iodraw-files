@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-2" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; 开始：&lt;br&gt;&lt;/b&gt;&lt;br&gt;收集学生输入的关键信息" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-2" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; 开始：&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;收集学生输入的关键信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="492" y="-20" width="223" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-4" value="Record Input: Store the student&#39;s input in the database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-4" value="录入:&amp;nbsp;&lt;br&gt;将学生的输入存入数据库" style="whiteSpace=wrap;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="478" y="110" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-5" value="Stage Identification: Determine the student&#39;s current programming stage to activate the corresponding LLM agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
