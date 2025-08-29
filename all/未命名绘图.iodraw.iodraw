@@ -13,7 +13,7 @@
         <mxCell id="wo-FAuSecLBx0kzGD3z7-7" value="问题理解智能体" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="539" width="164" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wo-FAuSecLBx0kzGD3z7-8" value="问题分解智能体" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="wo-FAuSecLBx0kzGD3z7-8" value="问题分解智能体" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="234" y="539" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wo-FAuSecLBx0kzGD3z7-9" value="编程调试智能体" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
